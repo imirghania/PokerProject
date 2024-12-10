@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+unzipped_data/
+venv/
+IRCdata.tgz
+.python-version
+hands.json

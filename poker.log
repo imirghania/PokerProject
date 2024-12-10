@@ -1,0 +1,210 @@
+[2024-12-09 11:36:26] extractor.py:INFO - Initializing poker hand data extraction from IRCdata.tgz
+[2024-12-09 11:36:32] extractor.py:INFO - Extracting holdem.199603.tgz
+[2024-12-09 11:36:32] extractor.py:INFO - Extracting holdem.199510.tgz
+[2024-12-09 11:36:32] extractor.py:INFO - Extracting holdem.199508.tgz
+[2024-12-09 11:36:32] extractor.py:INFO - Extracting holdem.199512.tgz
+[2024-12-09 11:36:32] extractor.py:INFO - Extracting holdem.199505.tgz
+[2024-12-09 11:36:32] extractor.py:INFO - Extracting holdem.199507.tgz
+[2024-12-09 11:36:32] extractor.py:INFO - Extracting holdem.199504.tgz
+[2024-12-09 11:36:32] extractor.py:INFO - Extracting holdem.199509.tgz
+[2024-12-09 11:36:33] extractor.py:INFO - Extracting holdem.199511.tgz
+[2024-12-09 11:36:33] extractor.py:INFO - Extracting holdem.199602.tgz
+[2024-12-09 11:36:33] extractor.py:INFO - Extracting holdem.199506.tgz
+[2024-12-09 11:36:33] extractor.py:INFO - Extracting holdem.199601.tgz
+[2024-12-09 11:40:34] extractor.py:INFO - Extracting holdem.199604.tgz
+[2024-12-09 11:41:15] extractor.py:INFO - Extracting holdem.199605.tgz
+[2024-12-09 11:41:57] extractor.py:INFO - 27541 hands extracted from IRCdata/holdem.199504.tgz, 27541 hands extracted by far
+[2024-12-09 11:42:01] extractor.py:INFO - Extracting holdem.199606.tgz
+[2024-12-09 11:42:37] extractor.py:INFO - 31627 hands extracted from IRCdata/holdem.199505.tgz, 59168 hands extracted by far
+[2024-12-09 11:42:40] extractor.py:INFO - Extracting holdem.199607.tgz
+[2024-12-09 11:42:48] extractor.py:INFO - 26531 hands extracted from IRCdata/holdem.199506.tgz, 85699 hands extracted by far
+[2024-12-09 11:42:48] extractor.py:INFO - 23116 hands extracted from IRCdata/holdem.199507.tgz, 108815 hands extracted by far
+[2024-12-09 11:42:48] extractor.py:INFO - 23113 hands extracted from IRCdata/holdem.199508.tgz, 131928 hands extracted by far
+[2024-12-09 11:42:52] extractor.py:INFO - Extracting holdem.199608.tgz
+[2024-12-09 11:43:15] extractor.py:INFO - 33222 hands extracted from IRCdata/holdem.199509.tgz, 165150 hands extracted by far
+[2024-12-09 11:43:20] extractor.py:INFO - Extracting holdem.199609.tgz
+[2024-12-09 11:45:38] extractor.py:INFO - 39834 hands extracted from IRCdata/holdem.199510.tgz, 204984 hands extracted by far
+[2024-12-09 11:45:52] extractor.py:INFO - Extracting holdem.199611.tgz
+[2024-12-09 11:45:52] extractor.py:INFO - Extracting holdem.199610.tgz
+[2024-12-09 11:45:58] extractor.py:INFO - 33772 hands extracted from IRCdata/holdem.199511.tgz, 238756 hands extracted by far
+[2024-12-09 11:46:07] extractor.py:INFO - Extracting holdem.199612.tgz
+[2024-12-09 11:46:46] extractor.py:INFO - 38853 hands extracted from IRCdata/holdem.199512.tgz, 277609 hands extracted by far
+[2024-12-09 11:46:47] extractor.py:INFO - Extracting holdem.199701.tgz
+[2024-12-09 11:46:52] extractor.py:INFO - Extracting holdem.199702.tgz
+[2024-12-09 11:47:05] extractor.py:INFO - 36222 hands extracted from IRCdata/holdem.199601.tgz, 313831 hands extracted by far
+[2024-12-09 11:47:05] extractor.py:INFO - 28147 hands extracted from IRCdata/holdem.199602.tgz, 341978 hands extracted by far
+[2024-12-09 11:47:05] extractor.py:INFO - 33497 hands extracted from IRCdata/holdem.199603.tgz, 375475 hands extracted by far
+[2024-12-09 11:47:20] extractor.py:INFO - Extracting holdem.199703.tgz
+[2024-12-09 11:50:34] extractor.py:INFO - Extracting holdem.199704.tgz
+[2024-12-09 11:50:55] extractor.py:INFO - Extracting holdem.199705.tgz
+[2024-12-09 11:51:12] extractor.py:INFO - Extracting holdem.199707.tgz
+[2024-12-09 11:51:13] extractor.py:INFO - 34619 hands extracted from IRCdata/holdem.199604.tgz, 410094 hands extracted by far
+[2024-12-09 11:51:19] extractor.py:INFO - Extracting holdem.199708.tgz
+[2024-12-09 11:51:54] extractor.py:INFO - 32496 hands extracted from IRCdata/holdem.199605.tgz, 442590 hands extracted by far
+[2024-12-09 11:51:54] extractor.py:INFO - 30587 hands extracted from IRCdata/holdem.199606.tgz, 473177 hands extracted by far
+[2024-12-09 11:52:06] extractor.py:INFO - Extracting holdem.199802.tgz
+[2024-12-09 11:54:35] extractor.py:INFO - Extracting holdem.199803.tgz
+[2024-12-09 11:55:10] extractor.py:INFO - 34602 hands extracted from IRCdata/holdem.199607.tgz, 507779 hands extracted by far
+[2024-12-09 11:55:10] extractor.py:INFO - 23482 hands extracted from IRCdata/holdem.199608.tgz, 531261 hands extracted by far
+[2024-12-09 11:55:10] extractor.py:INFO - 18587 hands extracted from IRCdata/holdem.199609.tgz, 549848 hands extracted by far
+[2024-12-09 11:55:17] extractor.py:INFO - Extracting holdem.199804.tgz
+[2024-12-09 11:57:15] extractor.py:INFO - Extracting holdem.199805.tgz
+[2024-12-09 12:19:36] extractor.py:INFO - Initializing poker hand data extraction from IRCdata.tgz
+[2024-12-09 12:19:50] extractor.py:INFO - Extracting holdem3.199512.tgz
+[2024-12-09 12:19:50] extractor.py:INFO - Extracting holdem3.199508.tgz
+[2024-12-09 12:19:50] extractor.py:INFO - Extracting holdem3.199505.tgz
+[2024-12-09 12:19:51] extractor.py:INFO - Extracting holdem3.199604.tgz
+[2024-12-09 12:19:51] extractor.py:INFO - Extracting holdem3.199601.tgz
+[2024-12-09 12:19:51] extractor.py:INFO - Extracting holdem3.199506.tgz
+[2024-12-09 12:19:51] extractor.py:INFO - Extracting holdem3.199509.tgz
+[2024-12-09 12:19:52] extractor.py:INFO - Extracting holdem3.199510.tgz
+[2024-12-09 12:19:52] extractor.py:INFO - Extracting holdem3.199602.tgz
+[2024-12-09 12:19:52] extractor.py:INFO - Extracting holdem3.199511.tgz
+[2024-12-09 12:19:52] extractor.py:INFO - Extracting holdem3.199603.tgz
+[2024-12-09 12:19:53] extractor.py:INFO - Extracting holdem3.199507.tgz
+[2024-12-09 12:20:39] extractor.py:INFO - Extracting holdem3.199605.tgz
+[2024-12-09 12:21:15] extractor.py:INFO - Initializing poker hand data extraction from IRCdata.tgz
+[2024-12-09 12:21:26] extractor.py:INFO - Extracting holdem3.199505.tgz
+[2024-12-09 12:21:26] extractor.py:INFO - Extracting holdem3.199507.tgz
+[2024-12-09 12:21:26] extractor.py:INFO - Extracting holdem3.199511.tgz
+[2024-12-09 12:21:27] extractor.py:INFO - Extracting holdem3.199603.tgz
+[2024-12-09 12:21:27] extractor.py:INFO - Extracting holdem3.199508.tgz
+[2024-12-09 12:21:27] extractor.py:INFO - Extracting holdem3.199506.tgz
+[2024-12-09 12:21:27] extractor.py:INFO - Extracting holdem3.199604.tgz
+[2024-12-09 12:21:27] extractor.py:INFO - Extracting holdem3.199601.tgz
+[2024-12-09 12:21:27] extractor.py:INFO - Extracting holdem3.199509.tgz
+[2024-12-09 12:21:28] extractor.py:INFO - Extracting holdem3.199602.tgz
+[2024-12-09 12:21:28] extractor.py:INFO - Extracting holdem3.199512.tgz
+[2024-12-09 12:21:28] extractor.py:INFO - Extracting holdem3.199510.tgz
+[2024-12-09 12:22:11] extractor.py:INFO - Extracting holdem3.199605.tgz
+[2024-12-09 12:23:15] extractor.py:INFO - Extracting holdem3.199606.tgz
+[2024-12-09 12:23:22] extractor.py:INFO - Extracting holdem3.199607.tgz
+[2024-12-09 12:23:24] extractor.py:INFO - 1608 hands extracted from IRCdata/holdem3.199505.tgz, 1608 hands extracted by far
+[2024-12-09 12:23:24] extractor.py:INFO - 650 hands extracted from IRCdata/holdem3.199506.tgz, 2258 hands extracted by far
+[2024-12-09 12:23:29] extractor.py:INFO - Extracting holdem3.199608.tgz
+[2024-12-09 12:23:33] extractor.py:INFO - Extracting holdem3.199610.tgz
+[2024-12-09 12:24:17] extractor.py:INFO - Extracting holdem3.199611.tgz
+[2024-12-09 12:24:35] extractor.py:INFO - Extracting holdem3.199612.tgz
+[2024-12-09 12:26:33] extractor.py:INFO - Extracting holdem3.199701.tgz
+[2024-12-09 12:27:03] extractor.py:INFO - 5780 hands extracted from IRCdata/holdem3.199507.tgz, 8038 hands extracted by far
+[2024-12-09 12:27:03] extractor.py:INFO - 5955 hands extracted from IRCdata/holdem3.199508.tgz, 13993 hands extracted by far
+[2024-12-09 12:27:03] extractor.py:INFO - 1750 hands extracted from IRCdata/holdem3.199509.tgz, 15743 hands extracted by far
+[2024-12-09 12:27:11] extractor.py:INFO - Extracting holdem3.199702.tgz
+[2024-12-09 12:27:54] extractor.py:INFO - Extracting holdem3.199703.tgz
+[2024-12-09 12:28:34] extractor.py:INFO - Extracting holdem3.199704.tgz
+[2024-12-09 12:28:58] extractor.py:INFO - Extracting holdem3.199705.tgz
+[2024-12-09 12:29:05] extractor.py:INFO - Extracting holdem3.199707.tgz
+[2024-12-09 12:30:07] extractor.py:INFO - 8261 hands extracted from IRCdata/holdem3.199510.tgz, 24004 hands extracted by far
+[2024-12-09 12:30:07] extractor.py:INFO - 6450 hands extracted from IRCdata/holdem3.199511.tgz, 30454 hands extracted by far
+[2024-12-09 12:30:07] extractor.py:INFO - 2913 hands extracted from IRCdata/holdem3.199512.tgz, 33367 hands extracted by far
+[2024-12-09 12:30:07] extractor.py:INFO - 1914 hands extracted from IRCdata/holdem3.199601.tgz, 35281 hands extracted by far
+[2024-12-09 12:30:07] extractor.py:INFO - 1574 hands extracted from IRCdata/holdem3.199602.tgz, 36855 hands extracted by far
+[2024-12-09 12:30:07] extractor.py:INFO - 2543 hands extracted from IRCdata/holdem3.199603.tgz, 39398 hands extracted by far
+[2024-12-09 12:30:16] extractor.py:INFO - Extracting holdem3.199708.tgz
+[2024-12-09 12:31:37] extractor.py:INFO - Extracting holdem3.199802.tgz
+[2024-12-09 12:31:39] extractor.py:INFO - Extracting holdem3.199803.tgz
+[2024-12-09 12:31:50] extractor.py:INFO - Extracting holdem3.199804.tgz
+[2024-12-09 12:32:26] extractor.py:INFO - Extracting holdem3.199805.tgz
+[2024-12-09 12:32:42] extractor.py:INFO - Extracting holdem3.199806.tgz
+[2024-12-09 12:32:54] extractor.py:INFO - Extracting holdem3.199807.tgz
+[2024-12-09 12:33:06] extractor.py:INFO - Extracting holdem3.199808.tgz
+[2024-12-09 12:33:21] extractor.py:INFO - Extracting holdem3.199809.tgz
+[2024-12-09 12:34:12] extractor.py:INFO - Extracting holdem3.199810.tgz
+[2024-12-09 12:35:04] extractor.py:INFO - Extracting holdem3.199811.tgz
+[2024-12-09 12:35:29] extractor.py:INFO - Extracting holdem3.199812.tgz
+[2024-12-09 12:36:23] extractor.py:INFO - 10357 hands extracted from IRCdata/holdem3.199604.tgz, 49755 hands extracted by far
+[2024-12-09 12:36:29] extractor.py:INFO - Extracting holdem3.199901.tgz
+[2024-12-09 12:36:32] extractor.py:INFO - 12452 hands extracted from IRCdata/holdem3.199605.tgz, 62207 hands extracted by far
+[2024-12-09 12:36:38] extractor.py:INFO - Extracting holdem3.199902.tgz
+[2024-12-09 12:37:19] extractor.py:ERROR - Validation error for PdbRecord: fields=('player', 'timestamp', 'num_players', 'position', 'preflop', 'flop', 'turn', 'river', 'bankroll', 'total_bet', 'total_win', 'card1', 'card2') args=('\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', '0')
+[2024-12-09 12:37:19] extractor.py:ERROR - Validation error for HdbRecord: fields=('timestamp', 'dealer', 'hand_num', 'num_players', 'flop', 'turn', 'river', 'showdown', 'card1', 'card2', 'card3', 'card4', 'card5') args=('\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00915418569', '1', '1303', '4', '2/100', '0/0', '0/0', '1/150', 'Jd', '6h', 'Kc')
+[2024-12-09 12:37:19] extractor.py:ERROR - Validation error for HrosterRecord: fields=('timestamp', 'num_players', 'players') args=('\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00915418569', '4', 'K6', 'PokerPunk', 'Tominator', 'apack')
+[2024-12-09 12:37:37] extractor.py:INFO - Extracting holdem3.199903.tgz
+[2024-12-09 12:38:26] extractor.py:INFO - Extracting holdem3.199904.tgz
+[2024-12-09 12:38:49] extractor.py:INFO - 12983 hands extracted from IRCdata/holdem3.199606.tgz, 75190 hands extracted by far
+[2024-12-09 12:38:49] extractor.py:INFO - 7833 hands extracted from IRCdata/holdem3.199607.tgz, 83023 hands extracted by far
+[2024-12-09 12:38:49] extractor.py:INFO - 7663 hands extracted from IRCdata/holdem3.199608.tgz, 90686 hands extracted by far
+[2024-12-09 12:38:49] extractor.py:INFO - 8545 hands extracted from IRCdata/holdem3.199610.tgz, 99231 hands extracted by far
+[2024-12-09 12:38:49] extractor.py:INFO - 3310 hands extracted from IRCdata/holdem3.199611.tgz, 102541 hands extracted by far
+[2024-12-09 12:38:49] extractor.py:INFO - 6699 hands extracted from IRCdata/holdem3.199612.tgz, 109240 hands extracted by far
+[2024-12-09 12:38:49] extractor.py:INFO - 4339 hands extracted from IRCdata/holdem3.199701.tgz, 113579 hands extracted by far
+[2024-12-09 12:38:49] extractor.py:INFO - 1614 hands extracted from IRCdata/holdem3.199702.tgz, 115193 hands extracted by far
+[2024-12-09 12:38:49] extractor.py:INFO - 465 hands extracted from IRCdata/holdem3.199703.tgz, 115658 hands extracted by far
+[2024-12-09 12:38:49] extractor.py:INFO - 4398 hands extracted from IRCdata/holdem3.199704.tgz, 120056 hands extracted by far
+[2024-12-09 12:38:49] extractor.py:INFO - 4468 hands extracted from IRCdata/holdem3.199705.tgz, 124524 hands extracted by far
+[2024-12-09 12:38:49] extractor.py:INFO - 6632 hands extracted from IRCdata/holdem3.199707.tgz, 131156 hands extracted by far
+[2024-12-09 12:38:49] extractor.py:INFO - 1080 hands extracted from IRCdata/holdem3.199708.tgz, 132236 hands extracted by far
+[2024-12-09 12:38:49] extractor.py:INFO - 2661 hands extracted from IRCdata/holdem3.199802.tgz, 134897 hands extracted by far
+[2024-12-09 12:38:49] extractor.py:INFO - 6744 hands extracted from IRCdata/holdem3.199803.tgz, 141641 hands extracted by far
+[2024-12-09 12:38:56] extractor.py:INFO - Extracting holdem3.199905.tgz
+[2024-12-09 12:40:28] extractor.py:INFO - Extracting holdem3.199906.tgz
+[2024-12-09 12:41:30] extractor.py:INFO - 9461 hands extracted from IRCdata/holdem3.199804.tgz, 151102 hands extracted by far
+[2024-12-09 12:41:36] extractor.py:INFO - Extracting holdem3.199907.tgz
+[2024-12-09 12:42:43] extractor.py:INFO - Extracting holdem3.199908.tgz
+[2024-12-09 12:42:58] extractor.py:INFO - Extracting holdem3.199909.tgz
+[2024-12-09 12:43:53] extractor.py:INFO - Extracting holdem3.199910.tgz
+[2024-12-09 12:44:27] extractor.py:INFO - Extracting holdem3.199911.tgz
+[2024-12-09 12:44:29] extractor.py:ERROR - Validation error for HdbRecord: fields=('timestamp', 'dealer', 'hand_num', 'num_players', 'flop', 'turn', 'river', 'showdown', 'card1', 'card2', 'card3', 'card4', 'card5') args=('\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00933704189', '1', '1', '2', '2/100', '2/100', '0/0', '1/200', 'Th', '3h', '6s', 'Ah')
+[2024-12-09 12:44:29] extractor.py:ERROR - Validation error for HrosterRecord: fields=('timestamp', 'num_players', 'players') args=('\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00933704189', '2', 'DrOakland', 'irzu')
+[2024-12-09 12:45:00] extractor.py:INFO - Extracting holdem3.199912.tgz
+[2024-12-09 12:45:11] extractor.py:INFO - Extracting holdem3.200002.tgz
+[2024-12-09 12:47:13] extractor.py:INFO - Extracting holdem3.200003.tgz
+[2024-12-09 12:47:51] extractor.py:INFO - Extracting holdem3.200004.tgz
+[2024-12-09 12:48:35] extractor.py:INFO - Extracting holdem3.200005.tgz
+[2024-12-09 12:49:54] extractor.py:INFO - Extracting holdem3.200006.tgz
+[2024-12-09 12:50:25] extractor.py:INFO - Extracting holdem3.200007.tgz
+[2024-12-09 12:50:26] extractor.py:INFO - Extracting holdem3.200008.tgz
+[2024-12-09 12:50:33] extractor.py:INFO - Extracting holdem3.200009.tgz
+[2024-12-09 12:50:35] extractor.py:INFO - 17376 hands extracted from IRCdata/holdem3.199805.tgz, 168478 hands extracted by far
+[2024-12-09 12:50:35] extractor.py:INFO - 2937 hands extracted from IRCdata/holdem3.199806.tgz, 171415 hands extracted by far
+[2024-12-09 12:50:35] extractor.py:INFO - 5537 hands extracted from IRCdata/holdem3.199807.tgz, 176952 hands extracted by far
+[2024-12-09 12:50:35] extractor.py:INFO - 9884 hands extracted from IRCdata/holdem3.199808.tgz, 186836 hands extracted by far
+[2024-12-09 12:50:35] extractor.py:INFO - 10876 hands extracted from IRCdata/holdem3.199809.tgz, 197712 hands extracted by far
+[2024-12-09 12:50:35] extractor.py:INFO - 9754 hands extracted from IRCdata/holdem3.199810.tgz, 207466 hands extracted by far
+[2024-12-09 12:50:35] extractor.py:INFO - 12216 hands extracted from IRCdata/holdem3.199811.tgz, 219682 hands extracted by far
+[2024-12-09 12:50:35] extractor.py:INFO - 9804 hands extracted from IRCdata/holdem3.199812.tgz, 229486 hands extracted by far
+[2024-12-09 12:50:35] extractor.py:INFO - 8610 hands extracted from IRCdata/holdem3.199901.tgz, 238096 hands extracted by far
+[2024-12-09 12:50:35] extractor.py:INFO - 10825 hands extracted from IRCdata/holdem3.199902.tgz, 248921 hands extracted by far
+[2024-12-09 12:50:35] extractor.py:INFO - 2905 hands extracted from IRCdata/holdem3.199903.tgz, 251826 hands extracted by far
+[2024-12-09 12:50:35] extractor.py:INFO - 10147 hands extracted from IRCdata/holdem3.199904.tgz, 261973 hands extracted by far
+[2024-12-09 12:50:35] extractor.py:INFO - 11685 hands extracted from IRCdata/holdem3.199905.tgz, 273658 hands extracted by far
+[2024-12-09 12:50:40] extractor.py:INFO - Extracting holdem3.200010.tgz
+[2024-12-09 12:51:55] extractor.py:INFO - Extracting holdem3.200011.tgz
+[2024-12-09 12:52:28] extractor.py:INFO - Extracting holdem3.200012.tgz
+[2024-12-09 12:52:38] extractor.py:INFO - Extracting holdem3.200102.tgz
+[2024-12-09 12:52:45] extractor.py:INFO - Extracting holdem3.200103.tgz
+[2024-12-09 12:53:09] extractor.py:INFO - Extracting holdem3.200104.tgz
+[2024-12-09 12:53:10] extractor.py:INFO - Extracting holdem3.200105.tgz
+[2024-12-09 12:53:11] extractor.py:INFO - Extracting holdem3.200106.tgz
+[2024-12-09 12:53:36] extractor.py:INFO - Extracting holdem3.200108.tgz
+[2024-12-09 12:53:36] extractor.py:INFO - Extracting holdem3.200107.tgz
+[2024-12-09 12:53:37] extractor.py:INFO - Extracting holdem3.200109.tgz
+[2024-12-09 12:53:43] extractor.py:ERROR - Validation error for PdbRecord: fields=('player', 'timestamp', 'num_players', 'position', 'preflop', 'flop', 'turn', 'river', 'bankroll', 'total_bet', 'total_win', 'card1', 'card2') args=('reTTard', '1000495526', '2', '1', 'Bf', '-', '-', '-', '8261', '25', '0')
+[2024-12-09 12:53:49] extractor.py:INFO - Extracting holdem3.200110.tgz
+[2024-12-09 12:53:54] extractor.py:ERROR - Validation error for PdbRecord: fields=('player', 'timestamp', 'num_players', 'position', 'preflop', 'flop', 'turn', 'river', 'bankroll', 'total_bet', 'total_win', 'card1', 'card2') args=('meatballs', '1002342173', '2', '1', 'Bc', 'brc', 'b', 'brf', '22762', '650', '0')
+[2024-12-09 12:56:40] extractor.py:INFO - 17021 hands extracted from IRCdata/holdem3.199906.tgz, 290679 hands extracted by far
+[2024-12-09 12:59:13] extractor.py:INFO - 22588 hands extracted from IRCdata/holdem3.199907.tgz, 313267 hands extracted by far
+[2024-12-09 12:59:13] extractor.py:INFO - 8414 hands extracted from IRCdata/holdem3.199908.tgz, 321681 hands extracted by far
+[2024-12-09 12:59:13] extractor.py:INFO - 11228 hands extracted from IRCdata/holdem3.199909.tgz, 332909 hands extracted by far
+[2024-12-09 12:59:13] extractor.py:INFO - 7570 hands extracted from IRCdata/holdem3.199910.tgz, 340479 hands extracted by far
+[2024-12-09 12:59:13] extractor.py:INFO - 8745 hands extracted from IRCdata/holdem3.199911.tgz, 349224 hands extracted by far
+[2024-12-09 12:59:13] extractor.py:INFO - 10044 hands extracted from IRCdata/holdem3.200002.tgz, 359268 hands extracted by far
+[2024-12-09 12:59:13] extractor.py:INFO - 2152 hands extracted from IRCdata/holdem3.200003.tgz, 361420 hands extracted by far
+[2024-12-09 12:59:13] extractor.py:INFO - 4758 hands extracted from IRCdata/holdem3.200004.tgz, 366178 hands extracted by far
+[2024-12-09 12:59:13] extractor.py:INFO - 11878 hands extracted from IRCdata/holdem3.200005.tgz, 378056 hands extracted by far
+[2024-12-09 12:59:13] extractor.py:INFO - 3066 hands extracted from IRCdata/holdem3.200006.tgz, 381122 hands extracted by far
+[2024-12-09 12:59:22] extractor.py:INFO - 14701 hands extracted from IRCdata/holdem3.200007.tgz, 395823 hands extracted by far
+[2024-12-09 13:00:11] extractor.py:INFO - 17758 hands extracted from IRCdata/holdem3.200008.tgz, 413581 hands extracted by far
+[2024-12-09 13:00:11] extractor.py:INFO - 4867 hands extracted from IRCdata/holdem3.200009.tgz, 418448 hands extracted by far
+[2024-12-09 13:00:11] extractor.py:INFO - 3085 hands extracted from IRCdata/holdem3.200010.tgz, 421533 hands extracted by far
+[2024-12-09 13:00:25] extractor.py:INFO - 13019 hands extracted from IRCdata/holdem3.200011.tgz, 434552 hands extracted by far
+[2024-12-09 13:00:25] extractor.py:INFO - 1476 hands extracted from IRCdata/holdem3.200012.tgz, 436028 hands extracted by far
+[2024-12-09 13:00:25] extractor.py:INFO - 465 hands extracted from IRCdata/holdem3.200102.tgz, 436493 hands extracted by far
+[2024-12-09 13:00:25] extractor.py:INFO - 344 hands extracted from IRCdata/holdem3.200103.tgz, 436837 hands extracted by far
+[2024-12-09 13:00:25] extractor.py:INFO - 646 hands extracted from IRCdata/holdem3.200104.tgz, 437483 hands extracted by far
+[2024-12-09 13:00:25] extractor.py:INFO - 270 hands extracted from IRCdata/holdem3.200105.tgz, 437753 hands extracted by far
+[2024-12-09 13:00:25] extractor.py:INFO - 374 hands extracted from IRCdata/holdem3.200106.tgz, 438127 hands extracted by far
+[2024-12-09 13:00:25] extractor.py:INFO - 484 hands extracted from IRCdata/holdem3.200107.tgz, 438611 hands extracted by far
+[2024-12-09 13:00:25] extractor.py:INFO - 1071 hands extracted from IRCdata/holdem3.200108.tgz, 439682 hands extracted by far
+[2024-12-09 13:00:25] extractor.py:INFO - Saving to hands.json
+[2024-12-09 13:01:46] extractor.py:INFO - 439682 extracted in total
