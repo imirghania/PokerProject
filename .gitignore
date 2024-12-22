@@ -2,6 +2,7 @@
 __pycache__/
 unzipped_data/
 venv/
+data/
 IRCdata.tgz
 .python-version
 hands.json
